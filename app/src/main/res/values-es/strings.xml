@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Convertir monedas</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="euro">Euros</string>
+    <string name="dolar">Dolares</string>
+    <string name="buttonConvertir">Convertir</string>
+    <string name="Error">Debes introducir primero una cantidad</string>
+    <string name="libra">Libras</string>
+    <string name="Error2">Por favor, introduzca un número válido</string>
+</resources>

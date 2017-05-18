@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Change Currency</string>
+    <string name="cantidad">Cuantity</string>
+    <string name="euro">Euros</string>
+    <string name="dolar">Dollars</string>
+    <string name="buttonConvertir">Go</string>
+    <string name="Error">You must introduce a currency first</string>
+    <string name="libra">Pounds</string>
+    <string name="resDefault">0</string>
+    <string name="Error2">Please introduce a valid number</string>
+</resources>
